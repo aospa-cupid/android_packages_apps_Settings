@@ -279,4 +279,7 @@
     <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
     <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
 
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Play Store</string>
+
 </resources>
