@@ -314,4 +314,7 @@
     <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
     <string name="total_ram">Total available RAM</string>
 
+    <!-- Running services - Background processes tab -->
+    <string name="background_processes_settings_title">Background processes</string>
+
 </resources>
