@@ -306,4 +306,8 @@
     <string name="qs_brightness_slider_position_top">Top</string>
     <string name="qs_brightness_slider_position_bottom">Bottom</string>
 
+    <!-- X-Reality Engine -->
+    <string name="x_reality_engine_mode_title">X-Reality Engine</string>
+    <string name="x_reality_engine_mode_summary">Enable bravia engine inspired display mode</string>
+
 </resources>
