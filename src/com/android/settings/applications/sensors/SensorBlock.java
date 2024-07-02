@@ -50,9 +50,9 @@ import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settingslib.widget.FooterPreference;
 
-import org.keli.support.preferences.PackageListAdapter;
-import org.keli.support.preferences.PackageListAdapter.PackageItem;
-import org.keli.support.preferences.AppListPreference;
+import co.aospa.framework.preference.PackageListAdapter;
+import co.aospa.framework.preference.PackageListAdapter.PackageItem;
+import co.aospa.framework.preference.AppListPreference;
 
 import java.util.ArrayList;
 import java.util.HashMap;

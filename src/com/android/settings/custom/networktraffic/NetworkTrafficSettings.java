@@ -37,8 +37,8 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.Collections;
 
-import org.keli.support.preferences.SystemSettingSwitchPreference;
-import org.keli.support.preferences.SystemSettingMainSwitchPreference;
+import co.aospa.framework.preference.SystemSettingSwitchPreference;
+import co.aospa.framework.preference.SystemSettingMainSwitchPreference;
 
 @SearchIndexable
 public class NetworkTrafficSettings extends SettingsPreferenceFragment implements

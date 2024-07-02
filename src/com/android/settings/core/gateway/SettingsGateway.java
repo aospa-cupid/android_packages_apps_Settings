@@ -386,8 +386,7 @@ public class SettingsGateway {
             LongBackgroundTasksDetails.class.getName(),
             RegionalPreferencesEntriesFragment.class.getName(),
             BatteryInfoFragment.class.getName(),
-            UserAspectRatioDetails.class.getName()
-            Paranoid.class.getName(),
+            UserAspectRatioDetails.class.getName(),
             RunningServices.class.getName()
     };
 
@@ -435,7 +434,6 @@ public class SettingsGateway {
             UserBackupSettingsActivity.class.getName(),
             Settings.MemtagPageActivity.class.getName(),
             Settings.NavigationModeSettingsActivity.class.getName(),
-            Settings.ParanoidSettingsActivity.class.getName(),
             Settings.DevRunningServicesActivity.class.getName(),
     };
 }
